@@ -66,7 +66,33 @@ h1{
 .list-container, li{
   list-style: none;
   padding: 20px;
-  text-align: left;
-  margin-left: 30px;
-  font-size: 1rem;
+  font-size: 1.2rem;
+}
+
+span{
+  vertical-align: middle;
+  font-size: 0.8rem;
+  color: #ffffff;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+/* color tag */
+.editorial{
+  background-color: rgb(32, 117, 174);
+}
+.goals{
+  background-color: rgb(114, 20, 173);
+}
+.recruiting{
+  background-color: rgb(58, 199, 178);
+}
+.mobile{
+  background-color: rgb(210, 154, 49);
+}
+.website{
+  background-color: rgb(189, 77, 226);
+}
+.sales{
+  background-color: rgb(129, 192, 35);
 }
