@@ -78,6 +78,7 @@ span{
 }
 
 /* color tag */
+
 .editorial{
   background-color: rgb(32, 117, 174);
 }
@@ -95,4 +96,33 @@ span{
 }
 .sales{
   background-color: rgb(129, 192, 35);
+}
+
+/* entity */
+
+.check{
+  background-color: rgb(255, 255, 255);
+  color: green;
+  border: green 2px solid;
+  border-radius: 30px;
+}
+.cross{
+  background-color: rgb(255, 255, 255);
+  color: rgb(221, 10, 10);
+  border: rgb(221,10,10) 2px solid;
+  border-radius: 30px;
+}
+
+/* list-titles */
+
+.list-titles{
+  font-weight: 600;
+  font-size: 1.5rem;
+  color: rgb(0, 0, 0);
+  padding-bottom: 5px;
+  padding-top: 30px;
+}
+
+li{
+  padding: 15px;
 }
